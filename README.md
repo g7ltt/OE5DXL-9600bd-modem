@@ -1,5 +1,6 @@
 # OE5DXL-9600bd-modem
 
+![diagram](https://github.com/g7ltt/OE5DXL-9600bd-modem/blob/main/schemat.gif)
 
 This modem has a very comfortable 9600bps operating speed with a suitable radio. 4 separate drivers have been written for the modem, but there is no driver in the Flexnet system .
 
